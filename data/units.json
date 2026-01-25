@@ -1,0 +1,1337 @@
+[
+  {
+    "name": "Slinger (Age of Empires)",
+    "description": "Slinger\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: The Rise of Rome\n\n\nType\nSlinger\n\n\nCivilization\nAll except Assyrians and Hittites\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n40\n\n\n Stone\n10\n\n\nTraining time\n35 seconds\n\n\n\nStatistics\n\n Hit points\n25\n\n\n Pierce attack\n2\n\n\nAttack bonus\n+3 vs Defensive structures+3 vs Archers0 vs. Mounted Archers\n\n\n Reload time\n1.5\n\n\nAttack delay\n0.58\n\n\n Range\n4\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n3\n\n\nArmor class\nNone\n\n\n Speed\n1\n\n\nLine of Sight\n6",
+    "costs": {
+      "Food": 40,
+      "Stone": 10
+    },
+    "stats": {
+      "Hit points": "25",
+      "Range": "4",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "3",
+      "Speed": "1",
+      "Line of Sight": "6"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Slingers are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Slingers are four times more resistant to conversion."
+      }
+    ]
+  },
+  {
+    "name": "Juggernaut (Age of Empires)",
+    "description": "Juggernaut\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nWarship\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n135\n\n\n Gold\n50\n\n\nTraining time\n90 seconds (base) 45 seconds\n\n\n\nStatistics\n\n Hit points\n200\n\n\n Melee attack\n35\n\n\nAttack bonus\n+140 vs. Buildings except Towers +50 vs. Towers+10 vs. Fire Galley\n\n\n Blast radius\n1.2\n\n\n Reload time\n5.3\n\n\n Range\n10\n\n\nProjectile speed\n3.49\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.45\n\n\nLine of Sight\n13\n\n\nAbility\nAttacks ignore unit armor\n\n\n\nUpgraded from\n\nUpgraded from\n Catapult Trireme",
+    "costs": {
+      "Wood": 135,
+      "Gold": 50
+    },
+    "stats": {
+      "Hit points": "200",
+      "Range": "10",
+      "Reload time": "5.3",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.45",
+      "Line of Sight": "13"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Juggernauts have +20% speed."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Juggernauts cost -30%."
+      },
+      {
+        "civilization": "Phoenicians",
+        "bonus": "Juggernauts fire 33% faster."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Juggernauts have +25% hit points."
+      }
+    ]
+  },
+  {
+    "name": "Clubman",
+    "description": "Clubman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nAll civilizations\n\n\nAge\n Stone Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n50\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n40\n\n\n Melee attack\n3\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgrades to\n\nUpgrades to\n Axeman\n\n\nUpgrade cost\n100 food\n\n\nUpgrade time\n40 seconds\n\n\nUpgrade requires\n Battle Axe",
+    "costs": {
+      "Food": 50
+    },
+    "stats": {
+      "Hit points": "40",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Choson",
+        "bonus": "Storage Pit technologies that benefit Clubmen are 40% cheaper."
+      },
+      {
+        "civilization": "Palmyrans",
+        "bonus": "Technologies that benefit Clubmen are researched 30% faster."
+      }
+    ]
+  },
+  {
+    "name": "Heavy Catapult",
+    "description": "Heavy Catapult\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nSiege weapon\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Siege Workshop\n\n\n Wood\n180\n\n\n Gold\n80\n\n\nTraining time\n60 seconds\n\n\n\nStatistics\n\n Hit points\n150\n\n\n Melee attack\n60\n\n\nAttack bonus\n+140 vs Buildings except Towers+50 vs Towers+10 vs Fire Galley\n\n\n Blast radius\n1.5\n\n\n Reload time\n5.375\n\n\n Range\n13\n\n\nMinimum range\n3\n\n\nProjectile speed\n3.49\n\n\n Melee armor\n-2\n\n\n Pierce armor\n5\n\n\n Speed\n0.66\n\n\nLine of Sight\n16\n\n\nAbility\nCan kill trees\n\n\n\nUpgraded from\n\nUpgraded from\n Catapult",
+    "costs": {
+      "Wood": 180,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "150",
+      "Range": "13",
+      "Reload time": "5.375",
+      "Melee armor": "-2",
+      "Pierce armor": "5",
+      "Speed": "0.66",
+      "Line of Sight": "16"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Long Swordsman (Age of Empires)",
+    "description": "Long Swordsman\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n35\n\n\n Gold\n15\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n100\n\n\n Melee attack\n11\n\n\n Reload time\n1.5\n\n\n Melee armor\n2\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Broad Swordsman\n\n\n\nUpgrades to\n\nUpgrades to\n Legionary\n\n\nUpgrade cost\n 1,400 food, 600 gold\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 35,
+      "Gold": 15
+    },
+    "stats": {
+      "Hit points": "100",
+      "Reload time": "1.5",
+      "Melee armor": "2",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Camel Rider (Age of Empires)",
+    "description": "Camel Rider\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: The Rise of Rome\n\n\nType\nCavalry\n\n\nCivilization\nSee table\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n70\n\n\n Gold\n60\n\n\nTraining time\n30 seconds\n\n\n\nStatistics\n\n Hit points\n125\n\n\n Melee attack\n6\n\n\nAttack bonus\n+8 vs. Mounted units\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.66\n\n\nLine of Sight\n4",
+    "costs": {
+      "Food": 70,
+      "Gold": 60
+    },
+    "stats": {
+      "Hit points": "125",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Fishing Ship (Age of Empires)",
+    "description": "Fishing Ship\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nFishing Boat\n\n\nCivilization\nAll except Hittites\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n50\n\n\nTraining time\n40 seconds (base) 23 seconds 20 seconds\n\n\n\nStatistics\n\n Hit points\n75\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n2.0\n\n\nLine of Sight\n6\n\n\n\nUpgraded from\n\nUpgraded from\n Fishing Boat",
+    "costs": {
+      "Wood": 50
+    },
+    "stats": {
+      "Hit points": "75",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "2.0",
+      "Line of Sight": "6"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Fishing Ships have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Fishing Ships have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Fishing Ships cost -25%/-30% in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Fishing Ships have +20%/+25% hit points in the Bronze/Iron Age and work 20% faster."
+      }
+    ]
+  },
+  {
+    "name": "Fishing Boat (Age of Empires)",
+    "description": "Fishing Boat\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nFishing Boat\n\n\nCivilization\nAll civilizations\n\n\nAge\n Stone Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n50\n\n\nTraining time\n40 seconds (base),  26 seconds 23 seconds 20 seconds\n\n\n\nStatistics\n\n Hit points\n45\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.4\n\n\nLine of Sight\n6\n\n\n\nUpgrades to\n\nUpgrades to\n Fishing Ship\n\n\nUpgrade cost\n 50 food, 100 wood\n\n\nUpgrade time\n51 seconds (base) 30 seconds 25 seconds",
+    "costs": {
+      "Wood": 50
+    },
+    "stats": {
+      "Hit points": "45",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.4",
+      "Line of Sight": "6"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Fishing Boats have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Fishing Boats have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Fishing Boats cost -15%/-20%/-25%/-30% in the Stone/Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Fishing Boats have +10%/+15%/+20%/+25% hit points in the Stone/Tool/Bronze/Iron Age and work 20% faster."
+      }
+    ]
+  },
+  {
+    "name": "Improved Bowman",
+    "description": "Improved Bowman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nArcher\n\n\nCivilization\nSee table\n\n\nAge\n Bronze Age\n\n\nRequires\n Improved Bow\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n40\n\n\n Gold\n20\n\n\nTraining time\n30 seconds\n\n\n\nStatistics\n\n Hit points\n40\n\n\n Pierce attack\n4\n\n\n Reload time\n1.4\n\n\nAttack delay\n0.52\n\n\n Range\n6\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nArchers\n\n\n Speed\n1\n\n\nLine of Sight\n8\n\n\n\nUpgrades to\n\nUpgrades to\n Composite Bowman\n\n\nUpgrade cost\n 180 food, 100 wood\n\n\nUpgrade time\n100 seconds",
+    "costs": {
+      "Food": 40,
+      "Gold": 20
+    },
+    "stats": {
+      "Hit points": "40",
+      "Range": "6",
+      "Reload time": "1.4",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "8"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Improved Bowmen are trained 25% faster and have +2 armor."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Improved Bowmen are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Improved Bowmen have +1/+2 range in the Bronze/Iron Age.*"
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Upgrading Improved Bowmen to Composite Bowmen costs -30%.*"
+      }
+    ]
+  },
+  {
+    "name": "Stone Thrower",
+    "description": "Stone Thrower\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nSiege weapon\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Siege Workshop\n\n\n Wood\n180\n\n\n Gold\n80\n\n\nTraining time\n60 seconds\n\n\n\nStatistics\n\n Hit points\n75\n\n\n Melee attack\n50\n\n\nAttack bonus\n+140 vs Buildings except Towers+50 vs Towers+10 vs Fire Galley\n\n\n Blast radius\n0.8\n\n\n Reload time\n5.375\n\n\n Range\n10\n\n\nMinimum range\n3\n\n\nProjectile speed\n3.49\n\n\n Melee armor\n-2\n\n\n Pierce armor\n3\n\n\n Speed\n0.66\n\n\nLine of Sight\n13\n\n\n\nUpgrades to\n\nUpgrades to\n Catapult\n\n\nUpgrade cost\n 300 food, 250 wood\n\n\nUpgrade time\n100 seconds",
+    "costs": {
+      "Wood": 180,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "75",
+      "Range": "10",
+      "Reload time": "5.375",
+      "Melee armor": "-2",
+      "Pierce armor": "3",
+      "Speed": "0.66",
+      "Line of Sight": "13"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Assyrians",
+        "bonus": "Upgrading Stone Throwers to Catapults costs -50%.*"
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "Stone Throwers have +50% hit points."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Stone Throwers are trained 25% faster."
+      },
+      {
+        "civilization": "Sumerians",
+        "bonus": "Stone Throwers fire 45% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Stone Throwers cost -25% and are four times more resistant to conversion."
+      }
+    ]
+  },
+  {
+    "name": "Scout (Age of Empires)",
+    "description": "Scout\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalryScout unit\n\n\nCivilization\nAll civilizations\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n90\n\n\nTraining time\n30 seconds\n\n\n\nStatistics\n\n Hit points\n60\n\n\n Melee attack\n3\n\n\nAttack bonus\n+3 vs Archers\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n1\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n7",
+    "costs": {
+      "Food": 90
+    },
+    "stats": {
+      "Hit points": "60",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "1",
+      "Speed": "1.66",
+      "Line of Sight": "7"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Scouts are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Scouts have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Scouts cost -15%."
+      }
+    ]
+  },
+  {
+    "name": "War Galley (Age of Empires)",
+    "description": "War Galley\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nWarship\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n135\n\n\nTraining time\n70 seconds (base) 41 seconds 35 seconds\n\n\n\nStatistics\n\n Hit points\n160\n\n\n Pierce attack\n8\n\n\n Reload time\n1.7\n\n\n Range\n6\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.75\n\n\nLine of Sight\n9\n\n\n\nUpgraded from\n\nUpgraded from\n Scout Ship\n\n\n\nUpgrades to\n\nUpgrades to\n Trireme\n\n\nUpgrade cost\n 250 food, 100 wood\n\n\nUpgrade time\n200 seconds (base) 100 seconds",
+    "costs": {
+      "Wood": 135
+    },
+    "stats": {
+      "Hit points": "160",
+      "Range": "6",
+      "Reload time": "1.7",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.75",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "War Galleys have +20% speed."
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "War Galleys have +2/+3 range in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "War Galleys are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "War Galleys are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "War Galleys cost -25%/-30% in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Persians",
+        "bonus": "War Galleys fire 25%/33% faster in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "War Galleys have +20%/+25% hit points in the Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Phalangite (Age of Empires)",
+    "description": "Phalangite\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nHeavy Infantry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Academy\n\n\n Food\n60\n\n\n Gold\n40\n\n\nTraining time\n36 seconds\n\n\n\nStatistics\n\n Hit points\n120\n\n\n Melee attack\n20\n\n\n Reload time\n1.5\n\n\n Melee armor\n7\n\n\n Pierce armor\n0\n\n\n Speed\n0.87\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Hoplite\n\n\n\nUpgrades to\n\nUpgrades to\n Centurion\n\n\nUpgrade cost\n 1,800 food, 700 gold\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 60,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "120",
+      "Reload time": "1.5",
+      "Melee armor": "7",
+      "Pierce armor": "0",
+      "Speed": "0.87",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Heavy Horse Archer",
+    "description": "Heavy Horse Archer\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry Archer\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n50\n\n\n Gold\n70\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n90\n\n\n Pierce attack\n8\n\n\n Reload time\n1.5\n\n\n Range\n7\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n1\n\n\nArmor class\nArchersMounted units\n\n\n Speed\n2.08\n\n\nLine of Sight\n9\n\n\n\nUpgraded from\n\nUpgraded from\n Horse Archer",
+    "costs": {
+      "Food": 50,
+      "Gold": 70
+    },
+    "stats": {
+      "Hit points": "90",
+      "Range": "7",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "1",
+      "Speed": "2.08",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Helepolis (Age of Empires)",
+    "description": "Helepolis\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nSiege weapon\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Siege Workshop\n\n\n Wood\n100\n\n\n Gold\n80\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n55\n\n\n Pierce attack\n45\n\n\nAttack bonus\n+5 vs. Fire Galley\n\n\n Reload time\n1.85\n\n\n Range\n10\n\n\nMinimum range\n3\n\n\nProjectile speed\n4.067\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n0.66\n\n\nLine of Sight\n12\n\n\n\nUpgraded from\n\nUpgraded from\n Ballista",
+    "costs": {
+      "Wood": 100,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "55",
+      "Range": "10",
+      "Reload time": "1.85",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.66",
+      "Line of Sight": "12"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Legionary (Age of Empires)",
+    "description": "Legionary\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n35\n\n\n Gold\n15\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n140\n\n\n Melee attack\n13\n\n\n Reload time\n1.5\n\n\n Melee armor\n2\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Long Swordsman",
+    "costs": {
+      "Food": 35,
+      "Gold": 15
+    },
+    "stats": {
+      "Hit points": "140",
+      "Reload time": "1.5",
+      "Melee armor": "2",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Trade Cart (Age of Empires)",
+    "description": "Trade Cart\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: Return of Rome\n\n\nType\nCivilian\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age\n\n\nRequires\n Wheel\n\n\n\nTraining\n\nTrained at\n Market\n\n\n Wood\n75\n\n\n Gold\n60\n\n\nTraining time\n51 seconds\n\n\n\nStatistics\n\n Hit points\n70\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.45\n\n\nLine of Sight\n7\n\n\nAbility\nGenerate gold by trading",
+    "costs": {
+      "Wood": 75,
+      "Gold": 60
+    },
+    "stats": {
+      "Hit points": "70",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.45",
+      "Line of Sight": "7"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Macedonians",
+        "bonus": "Trade Carts have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Palmyrans",
+        "bonus": "Trade units return +20% gold."
+      }
+    ]
+  },
+  {
+    "name": "Catapult Trireme",
+    "description": "Catapult Trireme\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nWarship\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\n Catapult Trireme (technology)\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n135\n\n\n Gold\n50\n\n\nTraining time\n90 seconds (base) 45 seconds\n\n\n\nStatistics\n\n Hit points\n135\n\n\n Melee attack\n35\n\n\nAttack bonus\n+140 vs. Buildings except Towers +50 vs. Towers+10 vs. Fire Galley\n\n\n Blast radius\n1\n\n\n Reload time\n5.3\n\n\n Range\n9\n\n\nProjectile speed\n3.49\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.45\n\n\nLine of Sight\n12\n\n\nAbility\nAttacks ignore armor of non-siege land units\n\n\n\nUpgrades to\n\nUpgrades to\n Juggernaut\n\n\nUpgrade cost\n 1,300 food, 700 wood\n\n\nUpgrade time\n200 seconds (base) 100 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Wood": 135,
+      "Gold": 50
+    },
+    "stats": {
+      "Hit points": "135",
+      "Range": "9",
+      "Reload time": "5.3",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.45",
+      "Line of Sight": "12"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Catapult Triremes have +20% speed."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Catapult Triremes are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Catapult Triremes are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Catapult Triremes cost -30%."
+      },
+      {
+        "civilization": "Phoenicians",
+        "bonus": "Catapult Triremes fire 33% faster."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Catapult Triremes have +25% hit points."
+      }
+    ]
+  },
+  {
+    "name": "Short Swordsman",
+    "description": "Short Swordsman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n35\n\n\n Gold\n15\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n60\n\n\n Melee attack\n7\n\n\n Reload time\n1.5\n\n\n Melee armor\n1\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgrades to\n\nUpgrades to\n Broad Swordsman\n\n\nUpgrade cost\n 140 food, 50 gold\n\n\nUpgrade time\n90 seconds\n\n\nUpgrade requires\nBattle Axe and Short Sword (before the Definitive Edition)",
+    "costs": {
+      "Food": 35,
+      "Gold": 15
+    },
+    "stats": {
+      "Hit points": "60",
+      "Reload time": "1.5",
+      "Melee armor": "1",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Axeman (Age of Empires)",
+    "description": "Axeman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nAll civilizations\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n50\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n50\n\n\n Melee attack\n5\n\n\nAttack bonus\n+4 vs Mounted units\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n1\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Clubman",
+    "costs": {
+      "Food": 50
+    },
+    "stats": {
+      "Hit points": "50",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "1",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Choson",
+        "bonus": "Axemen have +5 hit points."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Axemen are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Axemen have +2 Line of Sight and are four times more resistant to conversion."
+      }
+    ]
+  },
+  {
+    "name": "Cavalry (Age of Empires)",
+    "description": "Cavalry\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry\n\n\nCivilization\nAll except Egyptians and Sumerians\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n70\n\n\n Gold\n80\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n150\n\n\n Melee attack\n8\n\n\nAttack bonus\n+5 vs. Light infantry\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n1\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n4\n\n\n\nUpgrades to\n\nUpgrades to\n Heavy Cavalry\n\n\nUpgrade cost\n 350 food, 125 gold\n\n\nUpgrade time\n90 seconds",
+    "costs": {
+      "Food": 70,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "150",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "1",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Trade Boat",
+    "description": "Trade Boat\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCivilian ship\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age*\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n75\n\n\n Gold\n60\n\n\nTraining time\n50 seconds (base) 29 seconds 25 seconds\n\n\n\nStatistics\n\n Hit points\n120\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n2\n\n\nLine of Sight\n4\n\n\nAbility\nTrade\n\n\n\nUpgrades to\n\nUpgrades to\n Merchant Ship\n\n\nUpgrade cost\n 200 food, 75 wood\n\n\nUpgrade time\n102 seconds (base) 51 seconds",
+    "costs": {
+      "Wood": 75,
+      "Gold": 60
+    },
+    "stats": {
+      "Hit points": "120",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "2",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Trade Boats have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Trade Boats have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Trade Boats cost -25%/-30% in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Palmyrans",
+        "bonus": "Trade Boats provide +20% gold per trip."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Trade Boats have +20%/+25% hit points in the Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Hero (Age of Empires)",
+    "description": "Heroes are special units in Age of Empires. Unavailable in regular games, they typically refer to historical or mythological figures found in lore of ancient civilizations. As such, they are often featured in campaign scenarios.",
+    "costs": {},
+    "stats": {},
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Chariot (Age of Empires)",
+    "description": "Chariot\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry\n\n\nCivilization\nSee table\n\n\nAge\n Bronze Age\n\n\nRequires\n Wheel\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n40\n\n\n Wood\n60\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n100\n\n\n Melee attack\n7\n\n\nAttack bonus\n0 vs. Priests\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n4\n\n\nAbility\nHas level 2 conversion resistance\n\n\n\nUpgrades to\n\nUpgrades to\n Scythe Chariot\n\n\nUpgrade cost\n 1,400 wood, 1,000 gold\n\n\nUpgrade time\n200 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 40,
+      "Wood": 60
+    },
+    "stats": {
+      "Hit points": "100",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Fire Galley (Age of Empires)",
+    "description": "Fire Galley\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: The Rise of Rome\n\n\nType\nWarship\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\n War Galley\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n115\n\n\n Gold\n40\n\n\nTraining time\n60 seconds (base) 30 seconds\n\n\n\nStatistics\n\n Hit points\n200\n\n\n Melee attack\n24\n\n\n Reload time\n1.0\n\n\n Range\n1\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nBuildings and Fire Galley (+130)Fire Galley\n\n\n Speed\n2\n\n\nLine of Sight\n8",
+    "costs": {
+      "Wood": 115,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "200",
+      "Range": "1",
+      "Reload time": "1.0",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "2",
+      "Line of Sight": "8"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Carthaginians",
+        "bonus": "Fire Galleys have +6 attack."
+      },
+      {
+        "civilization": "Greeks",
+        "bonus": "Fire Galleys have +20% speed."
+      }
+    ]
+  },
+  {
+    "name": "Villager (Age of Empires)",
+    "description": "Villager\n\n\n\n\n\n\t\t\t\t\t\t\tFemale (Return)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tMale (Definitive/Return)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCivilian\n\n\nCivilization\nAll civilizations\n\n\nAge\n Stone Age\n\n\n\nTraining\n\nTrained at\n Town Center\n\n\n Food\n50\n\n\nTraining time\n20 seconds\n\n\n\nStatistics\n\n Hit points\n25\n\n\n Melee attack\n3Hunter: 4\n\n\n Reload time\n1.5\n\n\n Range\n0Hunter: 4\n\n\nProjectile speed\nHunter: 7\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n0.92\n\n\nLine of Sight\n4",
+    "costs": {
+      "Food": 50
+    },
+    "stats": {
+      "Hit points": "25",
+      "Range": "0Hunter:4",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.92",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Assyrians",
+        "bonus": "Villagers have +10% speed."
+      },
+      {
+        "civilization": "Babylonians",
+        "bonus": "Stone miners have +20% work rate and carry +2 stone."
+      },
+      {
+        "civilization": "Egyptians",
+        "bonus": "Gold miners have +20% work rate and carry +2 gold."
+      },
+      {
+        "civilization": "Greeks",
+        "bonus": "Villagers are created 10% faster from the Tool Age onward."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Foragers work 15% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Villagers have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Farmers have +10% work rate."
+      },
+      {
+        "civilization": "Palmyrans",
+        "bonus": "Villagers cost +50% (75 food), have +1/+1 armor and +25% work rate."
+      },
+      {
+        "civilization": "Persians",
+        "bonus": "Hunters have +30% work rate and carry +3 food."
+      },
+      {
+        "civilization": "Phoenicians",
+        "bonus": "Woodcutters have +15% work rate and carry +2 wood."
+      },
+      {
+        "civilization": "Shang",
+        "bonus": "Villagers cost -20% (40 food)."
+      },
+      {
+        "civilization": "Sumerians",
+        "bonus": "Villagers have +15 hit points."
+      }
+    ]
+  },
+  {
+    "name": "Horse Archer (Age of Empires)",
+    "description": "Horse Archer\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry Archer\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n50\n\n\n Gold\n70\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n60\n\n\n Pierce attack\n7\n\n\n Reload time\n1.5\n\n\n Range\n7\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n1\n\n\nArmor class\nArchersMounted units\n\n\n Speed\n1.91\n\n\nLine of Sight\n9\n\n\n\nUpgrades to\n\nUpgrades to\n Heavy Horse Archer\n\n\nUpgrade cost\n 1,750 food, 800 gold\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 50,
+      "Gold": 70
+    },
+    "stats": {
+      "Hit points": "60",
+      "Range": "7",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "1",
+      "Speed": "1.91",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Assyrians",
+        "bonus": "Horse Archers fire 33% faster."
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "Horse Archers have +1 attack."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Horse Archers are trained 25% faster and have +2 armor."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Horse Archers are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Horse Archers cost -15%. Upgrading Horse Archers to Heavy Horse Archers costs -30%.*"
+      }
+    ]
+  },
+  {
+    "name": "Explorer (Age of Empires)",
+    "description": "Explorer\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: Return of Rome\n\n\nType\nInfantryScout unit\n\n\n\nTraining\n\n Food\n35\n\n\nTraining time\n16 seconds\n\n\n\nStatistics\n\n Hit points\n20\n\n\n Melee attack\n2\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1.3\n\n\nLine of Sight\n4\n\n\n\n\nThe Explorer is an infantry unit for Age of Empires in Age of Empires II: Definitive Edition - Return of Rome. He looks identical to a Clubman, but is significantly weaker in combat, but also moves faster.",
+    "costs": {
+      "Food": 35
+    },
+    "stats": {
+      "Hit points": "20",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.3",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Artifact",
+    "description": "Artifact\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nArtifact\n\n\n\nStatistics\n\n Hit points\n1\n\n\n Melee armor\n100\n\n\n Pierce armor\n100\n\n\n Speed\n1\n\n\nLine of Sight\n2\n\n\n\nNotes\n\nIn Standard victory conditions, the player wins the game if their team takes and maintains control of all the Artifacts beyond the countdown.",
+    "costs": {},
+    "stats": {
+      "Hit points": "1",
+      "Melee armor": "100",
+      "Pierce armor": "100",
+      "Speed": "1",
+      "Line of Sight": "2"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Bowman (Age of Empires)",
+    "description": "Bowman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nArcher\n\n\nCivilization\nAll civilizations\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n40\n\n\n Wood\n20\n\n\nTraining time\n30 seconds\n\n\n\nStatistics\n\n Hit points\n35\n\n\n Pierce attack\n3\n\n\nAttack bonus\n+2 vs. Light infantry\n\n\n Reload time\n1.4\n\n\nAttack delay\n0.52\n\n\n Range\n5\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nArchers\n\n\n Speed\n1\n\n\nLine of Sight\n7",
+    "costs": {
+      "Food": 40,
+      "Wood": 20
+    },
+    "stats": {
+      "Hit points": "35",
+      "Range": "5",
+      "Reload time": "1.4",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "7"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Assyrians",
+        "bonus": "Bowmen fire 11%/22%/33% faster in the Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "Bowmen have +1 attack."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Bowmen are trained 25% faster and have +2 armor."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Bowmen are four times more resistant to conversion."
+      }
+    ]
+  },
+  {
+    "name": "Cheat unit",
+    "description": "A cheat unit is a unit that can only be obtained through typing a cheat code in the in-game chat bar. Note that, in most of the games, the cheat codes are not case sensitive. Every game in the Age of Empires series has cheat units. However, since Age of Empires III, some cheat units are available in the Scenario Editor, providing an alternative way of obtaining cheat units aside from typing their respective cheat codes.",
+    "costs": {},
+    "stats": {},
+    "civilization_bonuses": []
+  },
+  {
+    "name": "King (Age of Empires)",
+    "description": "King\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: Return of Rome - update 141935\n\n\nType\nCivilian\n\n\n\nStatistics\n\n Hit points\n90\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nHero\n\n\n Speed\n1.35\n\n\nLine of Sight\n6\n\n\nAbility\nCannot be converted\n\n\nCollision size\n0.3\n\n\n\nNotes\n\nMust-survive unit in Regicide games. Game asks for confirmation when trying to delete.\n\n\n\n\nThe King is a special untrainable unit introduced in update 141935 of Age of Empires II: Definitive Edition - Return of Rome, appearing in Regicide games. They cannot do any task, but can be used to scout in the early game when the threat of being attacked is low. In Regicide games, players that lose their King instantly lose the game.",
+    "costs": {},
+    "stats": {
+      "Hit points": "90",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.35",
+      "Line of Sight": "6"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Scythe Chariot",
+    "description": "Scythe Chariot\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: The Rise of Rome\n\n\nType\nChariot\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n40\n\n\n Wood\n60\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n120\n\n\n Melee attack\n9\n\n\nAttack bonus\n0 vs. Priests\n\n\n Blast radius\n0.75\n\n\n Reload time\n1.5\n\n\n Melee armor\n1\n\n\n Pierce armor\n0\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n4\n\n\nAbility\nHas level 2 conversion resistance\n\n\n\nUpgraded from\n\nUpgraded from\n Chariot",
+    "costs": {
+      "Food": 40,
+      "Wood": 60
+    },
+    "stats": {
+      "Hit points": "120",
+      "Reload time": "1.5",
+      "Melee armor": "1",
+      "Pierce armor": "0",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Elephant Archer (Age of Empires)",
+    "description": "Elephant Archer\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nArcher\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n180\n\n\n Gold\n60\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n600\n\n\n Pierce attack\n6\n\n\n Reload time\n1.5\n\n\n Range\n7\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nArchersMounted units\n\n\n Speed\n0.75\n\n\nLine of Sight\n9",
+    "costs": {
+      "Food": 180,
+      "Gold": 60
+    },
+    "stats": {
+      "Hit points": "600",
+      "Range": "7",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.75",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Chariot Archer (Age of Empires)",
+    "description": "Chariot Archer\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nMounted archer\n\n\nCivilization\nSee table\n\n\nAge\n Bronze Age\n\n\nRequires\n Wheel\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n40\n\n\n Wood\n70\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n70\n\n\n Pierce attack\n4\n\n\nAttack bonus\n0 vs. Priests\n\n\n Reload time\n1.5\n\n\n Range\n7\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nArchers (-2)Mounted units (+4)\n\n\n Speed\n1.66\n\n\nLine of Sight\n9\n\n\nAbility\nHas level 2 conversion resistance",
+    "costs": {
+      "Food": 40,
+      "Wood": 70
+    },
+    "stats": {
+      "Hit points": "70",
+      "Range": "7",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.66",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Centurion (Age of Empires)",
+    "description": "Centurion\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nHeavy Infantry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Academy\n\n\n Food\n60\n\n\n Gold\n40\n\n\nTraining time\n36 seconds\n\n\n\nStatistics\n\n Hit points\n160\n\n\n Melee attack\n30\n\n\n Reload time\n1.5\n\n\n Melee armor\n8\n\n\n Pierce armor\n0\n\n\n Speed\n0.87\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Phalangite",
+    "costs": {
+      "Food": 60,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "160",
+      "Reload time": "1.5",
+      "Melee armor": "8",
+      "Pierce armor": "0",
+      "Speed": "0.87",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Merchant Ship (Age of Empires)",
+    "description": "Merchant Ship\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nTrade Boat\n\n\nCivilization\nAll civilizations\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n75\n\n\n Gold\n60\n\n\nTraining time\n50 seconds (base) 29 seconds 25 seconds\n\n\n\nStatistics\n\n Hit points\n200\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n2.5\n\n\nLine of Sight\n4\n\n\nAbility\nTrade\n\n\n\nUpgraded from\n\nUpgraded from\n Trade Boat",
+    "costs": {
+      "Wood": 75,
+      "Gold": 60
+    },
+    "stats": {
+      "Hit points": "200",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "2.5",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Merchant Ships have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Merchant Ships have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Merchant Ships cost -25%/-30% in the Bronze/Iron Age."
+      },
+      {
+        "civilization": "Palmyrans",
+        "bonus": "Merchant Ships provide 20% more gold per trip."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Merchant Ships have +20%/+25% hit points in the Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Light Transport",
+    "description": "Light Transport\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nTransport Boat\n\n\nCivilization\nAll civilizations\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n150\n\n\nTraining time\n75 seconds (base) 50 seconds 44 seconds 37 seconds\n\n\n\nStatistics\n\n Hit points\n150\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.4\n\n\n Garrison\n5\n\n\nLine of Sight\n4\n\n\n\nUpgrades to\n\nUpgrades to\n Heavy Transport\n\n\nUpgrade cost\n 300 food, 150 wood\n\n\nUpgrade time\n180 seconds (base) 90 seconds",
+    "costs": {
+      "Wood": 150
+    },
+    "stats": {
+      "Hit points": "150",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.4",
+      "Line of Sight": "4",
+      "Garrison": "5"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Carthaginians",
+        "bonus": "Light Transports have +25% speed."
+      },
+      {
+        "civilization": "Greeks",
+        "bonus": "Light Transports have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Light Transports have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Light Transports cost -20%/-25%/-30% in the Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Light Transports have +15%/+20%/+25% hit points in the Tool/Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Hoplite (Age of Empires)",
+    "description": "Hoplite\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nHeavy Infantry\n\n\nCivilization\nAll except Persians\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Academy\n\n\n Food\n60\n\n\n Gold\n40\n\n\nTraining time\n36 seconds\n\n\n\nStatistics\n\n Hit points\n120\n\n\n Melee attack\n17\n\n\n Reload time\n1.5\n\n\n Melee armor\n5\n\n\n Pierce armor\n0\n\n\n Speed\n0.87\n\n\nLine of Sight\n4\n\n\n\nUpgrades to\n\nUpgrades to\n Phalangite\n\n\nUpgrade cost\n 300 food, 100 gold\n\n\nUpgrade time\n90 seconds",
+    "costs": {
+      "Food": 60,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "120",
+      "Reload time": "1.5",
+      "Melee armor": "5",
+      "Pierce armor": "0",
+      "Speed": "0.87",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Trireme (Age of Empires)",
+    "description": "Trireme\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nWarship\n\n\nCivilization\nAll except Babylonians, Hittites, and Shang\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n135\n\n\nTraining time\n70 seconds (base) 35 seconds\n\n\n\nStatistics\n\n Hit points\n200\n\n\n Pierce attack\n12\n\n\n Reload time\n1.89\n\n\n Range\n7\n\n\nProjectile speed\n4.9\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.75\n\n\nLine of Sight\n10\n\n\n\nUpgraded from\n\nUpgraded from\n War Galley",
+    "costs": {
+      "Wood": 135
+    },
+    "stats": {
+      "Hit points": "200",
+      "Range": "7",
+      "Reload time": "1.89",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.75",
+      "Line of Sight": "10"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Triremes have +20% speed."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Triremes are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Triremes are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Triremes cost -30%."
+      },
+      {
+        "civilization": "Persians",
+        "bonus": "Triremes fire 33% faster."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Triremes have +25% hit points."
+      }
+    ]
+  },
+  {
+    "name": "Catapult (Age of Empires)",
+    "description": "Catapult\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nSiege weapon\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Siege Workshop\n\n\n Wood\n180\n\n\n Gold\n80\n\n\nTraining time\n60 seconds\n\n\n\nStatistics\n\n Hit points\n75\n\n\n Melee attack\n60\n\n\nAttack bonus\n+140 vs Buildings except Towers+50 vs Towers+10 vs Fire Galley\n\n\n Blast radius\n1.25\n\n\n Reload time\n5.375\n\n\n Range\n12\n\n\nMinimum range\n3\n\n\nProjectile speed\n3.49\n\n\n Melee armor\n-2\n\n\n Pierce armor\n4\n\n\n Speed\n0.66\n\n\nLine of Sight\n15\n\n\n\nUpgraded from\n\nUpgraded from\n Stone Thrower\n\n\n\nUpgrades to\n\nUpgrades to\n Heavy Catapult\n\n\nUpgrade cost\n 1,800 food, 900 wood\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Wood": 180,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "75",
+      "Range": "12",
+      "Reload time": "5.375",
+      "Melee armor": "-2",
+      "Pierce armor": "4",
+      "Speed": "0.66",
+      "Line of Sight": "15"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Assyrians",
+        "bonus": "Upgrading Catapults to Heavy Catapults costs -50%.*"
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "Catapult have +50% hit points."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Catapults are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Catapults cost -25% and are four times more resistant to conversion.*"
+      },
+      {
+        "civilization": "Sumerians",
+        "bonus": "Catapults fire 45% faster."
+      }
+    ]
+  },
+  {
+    "name": "Composite Bowman (Age of Empires)",
+    "description": "Composite Bowman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nArcher\n\n\nCivilization\nSee table\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Archery Range\n\n\n Food\n40\n\n\n Gold\n20\n\n\nTraining time\n30 seconds\n\n\n\nStatistics\n\n Hit points\n45\n\n\n Pierce attack\n5\n\n\n Reload time\n1.4\n\n\nAttack delay\n0.52\n\n\n Range\n7\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nArcher\n\n\n Speed\n1\n\n\nLine of Sight\n9\n\n\n\nUpgraded from\n\nUpgraded from\n Improved Bowman",
+    "costs": {
+      "Food": 40,
+      "Gold": 20
+    },
+    "stats": {
+      "Hit points": "45",
+      "Range": "7",
+      "Reload time": "1.4",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "9"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Macedonians",
+        "bonus": "Composite Bowmen are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Upgrading from Improved Bowmen is 30% cheaper."
+      }
+    ]
+  },
+  {
+    "name": "Broad Swordsman",
+    "description": "Broad Swordsman\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nInfantry\n\n\nCivilization\nAll except Egyptians, Greeks, and Yamato\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Barracks\n\n\n Food\n35\n\n\n Gold\n15\n\n\nTraining time\n26 seconds\n\n\n\nStatistics\n\n Hit points\n80\n\n\n Melee attack\n9\n\n\n Reload time\n1.5\n\n\n Melee armor\n1\n\n\n Pierce armor\n0\n\n\nArmor class\nLight infantry\n\n\n Speed\n1\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Short Swordsman\n\n\n\nUpgrades to\n\nUpgrades to\n Long Swordsman\n\n\nUpgrade cost\n 240 food, 100 gold\n\n\nUpgrade time\n90 seconds",
+    "costs": {
+      "Food": 35,
+      "Gold": 15
+    },
+    "stats": {
+      "Hit points": "80",
+      "Reload time": "1.5",
+      "Melee armor": "1",
+      "Pierce armor": "0",
+      "Speed": "1",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Scout Ship (Age of Empires)",
+    "description": "Scout Ship\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nWarship\n\n\nCivilization\nAll civilizations\n\n\nAge\n Tool Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n135\n\n\nTraining time\n70 seconds (base) 46 seconds 41 seconds 35 seconds\n\n\n\nStatistics\n\n Hit points\n120\n\n\n Pierce attack\n5\n\n\n Reload time\n1.5\n\n\n Range\n5\n\n\nProjectile speed\n8\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.75\n\n\nLine of Sight\n7\n\n\n\nUpgrades to\n\nUpgrades to\n War Galley\n\n\nUpgrade cost\n 150 food, 75 wood\n\n\nUpgrade time\n128 seconds (base) 75 seconds 64 seconds",
+    "costs": {
+      "Wood": 135
+    },
+    "stats": {
+      "Hit points": "120",
+      "Range": "5",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.75",
+      "Line of Sight": "7"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Greeks",
+        "bonus": "Scout Ships have +20% speed."
+      },
+      {
+        "civilization": "Hittites",
+        "bonus": "Scout Ships have +1/+2/+3 range in the Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "Scout Ships are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Scout Ships are four times more resistant against conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Scout Ships cost -20%/-25%/-30% in the Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Persians",
+        "bonus": "Scout Ships fire 18%/25%/33% faster in the Tool/Bronze/Iron Age."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Scout Ships have +15%/+20%/+25% hit points in the Tool/Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Ballista (Age of Empires)",
+    "description": "Ballista\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nSiege weapon\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Siege Workshop\n\n\n Wood\n100\n\n\n Gold\n80\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n55\n\n\n Pierce attack\n40\n\n\nAttack bonus\n+5 vs Fire Galley\n\n\n Reload time\n2.7\n\n\n Range\n9\n\n\nMinimum range\n3\n\n\nProjectile speed\n4.067\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n0.66\n\n\nLine of Sight\n11\n\n\n\nUpgrades to\n\nUpgrades to\n Helepolis\n\n\nUpgrade cost\n 1,200 food, 1,000 wood\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Wood": 100,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "55",
+      "Range": "9",
+      "Reload time": "2.7",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.66",
+      "Line of Sight": "11"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "War Elephant (Age of Empires)",
+    "description": "War Elephant\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n170\n\n\n Gold\n40\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n600\n\n\n Melee attack\n15\n\n\nAttack bonus\n+25 vs. Buildings and Fire Galley+25 vs. Towers0 vs. Walls\n\n\n Blast radius\n0.75\n\n\n Reload time\n1.5\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\nArmor class\nMounted units\n\n\n Speed\n0.75\n\n\nLine of Sight\n5\n\n\n\nUpgrades to\n\nUpgrades to\n Armored Elephant\n\n\nUpgrade cost\n 1,000 food, 1,200 gold\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 170,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "600",
+      "Reload time": "1.5",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.75",
+      "Line of Sight": "5"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Carthaginians",
+        "bonus": "War Elephants have +25% hit points."
+      },
+      {
+        "civilization": "Lac Viet",
+        "bonus": "War Elephants are trained 25% faster."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "War Elephants have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Persians",
+        "bonus": "War Elephants have +25% speed."
+      },
+      {
+        "civilization": "Phoenicians",
+        "bonus": "War Elephants cost -25%."
+      }
+    ]
+  },
+  {
+    "name": "Priest (Age of Empires)",
+    "description": "Priest\n\n\n\n\n\n\t\t\t\t\t\t\tReturn of Rome\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nHealer\n\n\nCivilization\nAll except  Macedonians\n\n\nAge\n Bronze Age\n\n\n\nTraining\n\nTrained at\n Temple\n\n\n Gold\n125\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n25\n\n\n Range\n10\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n0.66\n\n\nLine of Sight\n12\n\n\nAbility\nHeal allied unitsConvert enemy units",
+    "costs": {
+      "Gold": 125
+    },
+    "stats": {
+      "Hit points": "25",
+      "Range": "10",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "0.66",
+      "Line of Sight": "12"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Babylonians",
+        "bonus": "Priests rejuvenate +0.6 faith per second (30% faster than unupgraded)."
+      },
+      {
+        "civilization": "Choson",
+        "bonus": "Priests cost -32% (the tech tree incorrectly states that it's -30%)."
+      },
+      {
+        "civilization": "Egyptians",
+        "bonus": "Priests have +2/+3 range in the Bronze/Iron Age."
+      }
+    ]
+  },
+  {
+    "name": "Heavy Transport",
+    "description": "Heavy Transport\n\n\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nTransport Boat\n\n\nCivilization\nAll civilizations\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Dock\n\n\n Wood\n150\n\n\nTraining time\n75 seconds (base) 37 seconds\n\n\n\nStatistics\n\n Hit points\n200\n\n\n Melee armor\n0\n\n\n Pierce armor\n0\n\n\n Speed\n1.75\n\n\n Garrison\n10\n\n\nLine of Sight\n5\n\n\n\nUpgraded from\n\nUpgraded from\n Light Transport",
+    "costs": {
+      "Wood": 150
+    },
+    "stats": {
+      "Hit points": "200",
+      "Melee armor": "0",
+      "Pierce armor": "0",
+      "Speed": "1.75",
+      "Line of Sight": "5",
+      "Garrison": "10"
+    },
+    "civilization_bonuses": [
+      {
+        "civilization": "Carthaginians",
+        "bonus": "Heavy Transports have +25% speed."
+      },
+      {
+        "civilization": "Greeks",
+        "bonus": "Heavy Transports have +20% speed."
+      },
+      {
+        "civilization": "Macedonians",
+        "bonus": "Heavy Transports have +2 Line of Sight and are four times more resistant to conversion."
+      },
+      {
+        "civilization": "Minoans",
+        "bonus": "Heavy Transports cost -30%."
+      },
+      {
+        "civilization": "Yamato",
+        "bonus": "Heavy Transports have +25% hit points."
+      }
+    ]
+  },
+  {
+    "name": "Cataphract (Age of Empires)",
+    "description": "Cataphract\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n70\n\n\n Gold\n80\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n240\n\n\n Melee attack\n12\n\n\nAttack bonus\n+7 vs. Light infantry\n\n\n Reload time\n1.5\n\n\n Melee armor\n5\n\n\n Pierce armor\n3\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Heavy Cavalry",
+    "costs": {
+      "Food": 70,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "240",
+      "Reload time": "1.5",
+      "Melee armor": "5",
+      "Pierce armor": "3",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Armored Elephant (Age of Empires)",
+    "description": "Armored Elephant\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires: The Rise of Rome\n\n\nType\nWar Elephant\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\nRequires\nN/A\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n170\n\n\n Gold\n40\n\n\nTraining time\n50 seconds\n\n\n\nStatistics\n\n Hit points\n600\n\n\n Melee attack\n18\n\n\nAttack bonus\n+35 vs. Buildings and Fire Galley+35 vs. Towers0 vs Walls\n\n\n Blast radius\n0.75\n\n\n Reload time\n1.5\n\n\n Melee armor\n2\n\n\n Pierce armor\n1\n\n\nArmor class\nMounted units\n\n\n Speed\n0.75\n\n\nLine of Sight\n5\n\n\n\nUpgraded from\n\nUpgraded from\n War Elephant",
+    "costs": {
+      "Food": 170,
+      "Gold": 40
+    },
+    "stats": {
+      "Hit points": "600",
+      "Reload time": "1.5",
+      "Melee armor": "2",
+      "Pierce armor": "1",
+      "Speed": "0.75",
+      "Line of Sight": "5"
+    },
+    "civilization_bonuses": []
+  },
+  {
+    "name": "Heavy Cavalry (Age of Empires)",
+    "description": "Heavy Cavalry\n\n\n\n\n\n\t\t\t\t\t\t\tReturn\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tDefinitive\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\tOriginal\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnit information\n\nIntroduced in\n Age of Empires\n\n\nType\nCavalry\n\n\nCivilization\nSee table\n\n\nAge\n Iron Age\n\n\n\nTraining\n\nTrained at\n Stable\n\n\n Food\n70\n\n\n Gold\n80\n\n\nTraining time\n40 seconds\n\n\n\nStatistics\n\n Hit points\n150\n\n\n Melee attack\n10\n\n\nAttack bonus\n+6 vs. Light infantry\n\n\n Reload time\n1.5\n\n\n Melee armor\n2\n\n\n Pierce armor\n2\n\n\nArmor class\nMounted units\n\n\n Speed\n1.66\n\n\nLine of Sight\n4\n\n\n\nUpgraded from\n\nUpgraded from\n Cavalry\n\n\n\nUpgrades to\n\nUpgrades to\n Cataphract\n\n\nUpgrade cost\n 1,600 food, 600 gold\n\n\nUpgrade time\n150 seconds\n\n\nUpgrade requires\nN/A",
+    "costs": {
+      "Food": 70,
+      "Gold": 80
+    },
+    "stats": {
+      "Hit points": "150",
+      "Reload time": "1.5",
+      "Melee armor": "2",
+      "Pierce armor": "2",
+      "Speed": "1.66",
+      "Line of Sight": "4"
+    },
+    "civilization_bonuses": []
+  }
+]
