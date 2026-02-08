@@ -39,6 +39,32 @@ class Combatant:
              
         self.cooldown = 0.0
         self.alive = True
+
+        # Movement
+        try:
+            self.speed = float(stats.get('Speed', 1.0))
+        except:
+            self.speed = 1.0
+
+        self.x = 0.0
+        self.y = 0.0
+
+    def distance_to(self, target):
+        return ((self.x - target.x)**2 + (self.y - target.y)**2)**0.5
+
+    def move_towards(self, target, dt):
+        dist = self.distance_to(target)
+        if dist <= 0:
+            return
+
+        move_dist = self.speed * dt
+        if move_dist >= dist:
+            self.x = target.x
+            self.y = target.y
+        else:
+            ratio = move_dist / dist
+            self.x += (target.x - self.x) * ratio
+            self.y += (target.y - self.y) * ratio
         
     def take_damage(self, damage):
         self.hp -= damage
