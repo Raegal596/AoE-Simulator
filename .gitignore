@@ -3,3 +3,4 @@ debug_output/
 .env
 __pycache__/
 *.pyc
+reference_extaction.json
